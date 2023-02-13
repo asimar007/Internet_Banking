@@ -30,7 +30,7 @@ I'm a Web developer...
 Install My Project with npm
 
 ```bash
-  npm install Internet_Banking
+  git clone https://github.com/asimar007/Internet_Banking.git
   cd Internet_Banking
 ```
     
