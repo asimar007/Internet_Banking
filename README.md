@@ -7,7 +7,7 @@ Internet Banking is a very simple and basic project developed in Java using jdbc
 
 ## Authors
 
-- [Asim Sk](https://github.com/asimar007)
+- [Asim Sk](https://www.instagram.com/asim_ar007/)
 
 
 ## Documentation
