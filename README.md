@@ -27,7 +27,7 @@ I'm a Web developer...
 
 ## Installation
 
-Install My Project with npm
+Install My Project with command
 
 ```bash
   git clone https://github.com/asimar007/Internet_Banking.git
