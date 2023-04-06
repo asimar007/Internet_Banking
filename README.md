@@ -1,7 +1,7 @@
 
 # Internet Banking
 
-Internet Banking is a very simple and basic project developed in Java using jdbc technology. I used a database to store all customer account details in a table. This system is a simple project and useful for those who want to learn servlet,jsp servlet with jdbc. I have implemented most of the online banking features into it. The user can log in, make withdrawals, deposit, transfer an amount from one account to another account, check their current balance.
+Internet banking project using Java with jdbc technology. You have stored all customer account details in a database table and implemented various online banking features such as login, withdrawal, deposit, transfer, and checking current balance. This project is useful for those who want to learn about servlet, jsp servlet with jdbc.
 
 
 
